@@ -1,6 +1,3 @@
-This repository is for coursework
+This repository is for coursework...and also my cat
 
-- Bullet point
-
-
-# Headings
+![Here is a picture of my study partner](/pictures/CatPic.jpg)
